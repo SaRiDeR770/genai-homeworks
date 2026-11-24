@@ -1,6 +1,6 @@
 # GenAI Basics Homeworks
 
-Course: GenAI Basics, EPAM, Ihar Rubanovich
+Course: GenAI Basics
 
 | Lesson | Homework |
 |---|---|
